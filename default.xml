@@ -772,5 +772,5 @@
   <include name="obsolete.xml"/>
   <include name="xdroid.xml"/>
   <include name="lineage.xml"/>
-
+  <include name="fork.xml"/>
 </manifest>
