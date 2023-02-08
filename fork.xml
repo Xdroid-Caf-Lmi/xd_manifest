@@ -5,4 +5,13 @@
                fetch="https://github.com/Xdroid-Caf-Lmi/"
             revision="eleven"/>
 
+  <remove-project name="xd_frameworks_base"/>
+  <project path="frameworks/base" name="xd_frameworks_base" remote="xd-lmi"/>
+
+  <remove-project name="xd_packages_apps_Xzrypr"/>
+  <project path="packages/apps/Xzrypr" name="xd_packages_apps_Xzrypr" remote="xd-lmi"/>
+
+  <remove-project name="xd_packages_apps_Settings"/>
+  <project path="packages/apps/Settings" name="xd_packages_apps_Settings" remote="xdroid"/>
+
 </manifest>
